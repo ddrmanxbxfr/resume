@@ -1,3 +1,4 @@
-html {
- background-image: url('/img/panda.jpg');    
+body {
+    background-image: url('../img/Red_Panda_c.jpg');
+    background-size: 100%;
 }
